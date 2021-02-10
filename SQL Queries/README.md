@@ -1,7 +1,14 @@
 # SQL Queries
 
-A compilation of some sample queries I wrote.
+A compilation of some sample queries I wrote using the AdventureWorks2014 database.
+Premises and the SQL queries that solve them were written by me.
 
+Format is : (Premise) -> (Problem Solving Query) -> (Sample Output)
+
+
+You can retrieve AdventureWorks2014 from: 
+
+https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 ## Types of Queries
 
 These quieries have been split into 3 categories based on their complexity and placed into their respective folders. Read below to see what the differences are. 
