@@ -2,6 +2,7 @@
 
 A compilation of some sample queries I wrote using the AdventureWorks2014 database.
 Premises and the SQL queries that solve them were written by me.
+I uploaded both .docx and .pdf files.
 
 Format is : (Premise) -> (Problem Solving Query) -> (Sample Output)
 
